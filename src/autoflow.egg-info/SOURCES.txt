@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/autoflow.egg-info/PKG-INFO
+src/autoflow.egg-info/SOURCES.txt
+src/autoflow.egg-info/dependency_links.txt
+src/autoflow.egg-info/top_level.txt
+tests/test_browserbot.py
